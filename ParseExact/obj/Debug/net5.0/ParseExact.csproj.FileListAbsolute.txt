@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\ParseExact\ParseExact\bin\Debug\net5.0\ParseExact.exe
+C:\Users\user\Desktop\ParseExact\ParseExact\bin\Debug\net5.0\ParseExact.deps.json
+C:\Users\user\Desktop\ParseExact\ParseExact\bin\Debug\net5.0\ParseExact.runtimeconfig.json
+C:\Users\user\Desktop\ParseExact\ParseExact\bin\Debug\net5.0\ParseExact.runtimeconfig.dev.json
+C:\Users\user\Desktop\ParseExact\ParseExact\bin\Debug\net5.0\ParseExact.dll
+C:\Users\user\Desktop\ParseExact\ParseExact\bin\Debug\net5.0\ParseExact.pdb
+C:\Users\user\Desktop\ParseExact\ParseExact\obj\Debug\net5.0\ParseExact.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ParseExact\ParseExact\obj\Debug\net5.0\ParseExact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ParseExact\ParseExact\obj\Debug\net5.0\ParseExact.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ParseExact\ParseExact\obj\Debug\net5.0\ParseExact.AssemblyInfo.cs
+C:\Users\user\Desktop\ParseExact\ParseExact\obj\Debug\net5.0\ParseExact.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ParseExact\ParseExact\obj\Debug\net5.0\ParseExact.dll
+C:\Users\user\Desktop\ParseExact\ParseExact\obj\Debug\net5.0\refint\ParseExact.dll
+C:\Users\user\Desktop\ParseExact\ParseExact\obj\Debug\net5.0\ParseExact.pdb
+C:\Users\user\Desktop\ParseExact\ParseExact\obj\Debug\net5.0\ParseExact.genruntimeconfig.cache
+C:\Users\user\Desktop\ParseExact\ParseExact\obj\Debug\net5.0\ref\ParseExact.dll
